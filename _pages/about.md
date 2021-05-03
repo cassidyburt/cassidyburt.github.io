@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Look at her! She's on the internet!
+Look at her! She's on the web!
