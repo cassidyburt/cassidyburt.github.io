@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -85,8 +85,8 @@ author:
   bio              : "I'm a doctoral candidate in social psychology at the University of Connecticut, interested in using behavioral data science to inform public policy."
   location         : "Storrs, Connecticut"
   employer         : "University of Connecticut"
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # researchgate: "https://www.researchgate.net/profile/Cassidy-Burt-2"
   uri              :
