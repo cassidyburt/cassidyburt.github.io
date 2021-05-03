@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  name             : "Cassidy Burt, MS"
+  avatar           : "headshot1.jpg"
+  bio              : "I'm a doctoral candidate in social psychology at the University of Connecticut, interested in using behavioral data science to inform public policy."
+  location         : "Storrs, Connecticut"
+  employer         : "University of Connecticut"
   pubmed           : ""
   googlescholar    : ""
   email            :
