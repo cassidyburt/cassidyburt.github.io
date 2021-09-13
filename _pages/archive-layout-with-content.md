@@ -1,6 +1,6 @@
 ---
 title: "Archive Layout with Content"
-layout: post
+layout: archive
 permalink: /archive-layout-with-content/
 ---
 
